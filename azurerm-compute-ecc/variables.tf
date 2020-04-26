@@ -103,7 +103,7 @@ variable "tags" {
   default = {
     Application = "SAP ECC"
     Environment = "Update Me"
-    Owner       = "ada.a.julia@gds.ey.com"
+    Owner       = "someone@domain.com"
   }
 }
 
